@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "learningamplify96196c13": {}
+      },
+      "api": {
+        "learningamplify": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
